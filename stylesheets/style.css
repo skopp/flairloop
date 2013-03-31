@@ -1,4 +1,7 @@
 @import url('reset.css');
+@import url('print.css');
+@import url('stylesheet.css');
+@import url('pygment_trac.css');
 
 /* So few characters, Twitter shut down for a moment of solidarity 
 Uganda offered to send more chars, that minimal
